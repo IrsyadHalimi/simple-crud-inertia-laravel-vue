@@ -1,4 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>
+    <a href="https://www.mysql.com" target="_blank">
+        <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="200" alt="MySQL Logo">
+    </a>
+    <a href="https://inertiajs.com" target="_blank" style="margin-left: 20px;">
+        <img src="https://raw.githubusercontent.com/innocenzi/awesome-inertiajs/main/assets/logo.svg" width="200" alt="Inertia.js Logo">
+    </a>
+    <a href="https://vuejs.org" target="_blank" style="margin-left: 20px;">
+        <img src="https://vuejs.org/images/logo.png" width="200" alt="Vue.js Logo">
+    </a>
+</p>
+
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
@@ -6,6 +17,10 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+## Simple Book CRUD
+
+Implementing Laravel 11 integrated with MySQL, Inertia, and Vue to create a simple book CRUD app as a SPA
 
 ## About Laravel
 
